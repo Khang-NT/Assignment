@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'heading';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Itim'), local('Itim-Regular'),
+       url('fonts/itim-v1-vietnamese_latin-ext-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+ */
+       url('fonts/itim-v1-vietnamese_latin-ext-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - vietnamese_latin-ext */
+@font-face {
+  font-family: 'mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Mono'), local('RobotoMono-Regular'),
+       url('fonts/roboto-mono-v4-vietnamese_latin-ext-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+ */
+       url('fonts/roboto-mono-v4-vietnamese_latin-ext-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* noto-serif-regular - vietnamese_latin-ext */
+@font-face {
+  font-family: 'body';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Serif'), local('NotoSerif'),
+       url('../fonts/noto-serif-v4-vietnamese_latin-ext-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+ */
+       url('../fonts/noto-serif-v4-vietnamese_latin-ext-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
