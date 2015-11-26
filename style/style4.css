@@ -1,5 +1,12 @@
 .section_caption {
 	background: #d92b2b;
-	font-size: 90%;
-	padding: 13% 4em;
+}
+
+h3 {
+	font-size: 150%;
+	color: #62AE17;
+}
+
+img {
+	height: 300px;
 }
